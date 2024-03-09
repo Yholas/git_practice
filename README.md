@@ -1,9 +1,10 @@
-# Mon Projet de score keeping
+# Mon Projet de score keeping multijoueurs
 
 ## Description
 
--fabriquer une app pour faire du score keeping
+-fabriquer une app pour faire du score keeping pour le multi-joueurs 
 - mettre en place toute les features neccessaire pour tenir un tournoi (score, resultat, sanction, timer,etc)
+-cree un systeme de classement elo des joueurs
  
  ## comment s'en servire ? 
  je sais pas encore dsl
