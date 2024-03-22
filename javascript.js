@@ -1,3 +1,4 @@
-function nombreDeJoueurs(nombre){
-  nombreDeJoueurs.onClic() => if()
+function entrerResultat() {
+      let score =0;
+      
 }
